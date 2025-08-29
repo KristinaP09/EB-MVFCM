@@ -83,7 +83,7 @@ Citation and license
   @article{sinaga2025heatkernel,
     author = {K. P. Sinaga and S. Colantonio},
     title  = {Heat-Kernel Multi-View Learning},
-    year   = {2025},
+    year   = {202x},
     note   = {manuscript / xxxx -- code release at acceptance}
   }
   ```
